@@ -1,0 +1,20 @@
+{
+    "name": "traceai-sdk-official",
+    "version": "0.1.1",
+    "description": "Lightweight error tracking SDK inspired by Sentry",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "errors",
+        "observability",
+        "logging",
+        "debugging"
+    ],
+    "license": "MIT"
+}

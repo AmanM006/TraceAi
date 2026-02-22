@@ -1,0 +1,21 @@
+# Python environment (Crucial for the warnings you saw)
+backend/venv/
+venv/
+.venv/
+__pycache__/
+
+# Node/Next.js
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Trace SDK
+trace-sdk/node_modules/
+trace-sdk/dist/
+
+# Secrets
+.env
+.env.local
+frontend/.env.local
+backend/.env
